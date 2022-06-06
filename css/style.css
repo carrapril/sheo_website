@@ -180,7 +180,7 @@ section{
     text-transform: uppercase;
 }
 .heading span{
-    color: rgb(252, 118, 69);
+    color: cornflowerblue;
 }
 .product .box-container{
     display: flex;
